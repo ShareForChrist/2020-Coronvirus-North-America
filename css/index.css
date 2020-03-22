@@ -5,7 +5,7 @@
 
 .home-header {
   height: 70vh;
-  background-image: url("../img/mohamed-nohassi-odxB5oIG_iA-unsplash.jpeg");
+  background-image: url("../img/bantersnaps-gdQnsMbhkUs-unsplash.jpeg");
   background-size: cover;
 }
 
@@ -13,6 +13,9 @@
   color: #e9ecef;
   text-align: center;
   text-shadow: 1px 1px 2px black;
+  background-color: rgba(86, 85, 87, 0.5);
+  width: 80%;
+  border-radius: 10px;
 }
 .header-text {
   width: 80%;
