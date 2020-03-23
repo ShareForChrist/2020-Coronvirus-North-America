@@ -1,6 +1,22 @@
 * {
   box-sizing: border-box;
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  /* font-family: 'Baskervville', serif; */
+}
+
+/* ======= Navigation Bar ======= */
+.dropdown-menu {
+  background-color: rgb(46,51,56) !important;
+}
+
+.dropdown-menu a {
+  text-decoration: none;
+  color: white;
+}
+
+.dropdown-menu a:hover {
+  color: lightblue;
+  text-decoration: none;
 }
 
 .home-header {
