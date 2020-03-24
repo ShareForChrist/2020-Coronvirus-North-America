@@ -133,10 +133,10 @@ tfoot {
   border-radius: 10px;
   height: auto;
 }
-a:active {
+.about-us a:active {
   color: black;
 }
-a:visited {
+.about-us a:visited {
   color: black;
 }
 .about-text {
