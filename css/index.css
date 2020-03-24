@@ -133,6 +133,12 @@ tfoot {
   border-radius: 10px;
   height: auto;
 }
+a:active {
+  color: black;
+}
+a:visited {
+  color: black;
+}
 .about-text {
   height: auto;
   background-color: rgba(202, 198, 197, 0.6);
