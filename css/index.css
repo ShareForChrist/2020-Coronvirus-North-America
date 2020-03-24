@@ -131,12 +131,13 @@ tfoot {
 .about-us {
   background-color: rgba(142, 192, 228, 0.3);
   border-radius: 10px;
+  height: auto;
 }
 .about-text {
-  height: 150px;
+  height: auto;
   background-color: rgba(86, 85, 87, 0.3);
   border-radius: 10px;
-  color: white;
+  color: black;
 }
 .icon {
   width: 80px;
@@ -162,6 +163,9 @@ tfoot {
     font-size: 25px;
   }
   .header-text {
+    font-size: 12px;
+  }
+  .about-text {
     font-size: 12px;
   }
 }
