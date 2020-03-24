@@ -133,6 +133,9 @@ tfoot {
   border-radius: 10px;
   height: auto;
 }
+.about a {
+  color: black;
+}
 .about-us a:active {
   color: black;
 }
