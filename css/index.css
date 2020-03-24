@@ -132,6 +132,10 @@ tfoot {
   background-color: rgba(142, 192, 228, 0.3);
   border-radius: 10px;
   height: auto;
+  color: black;
+}
+.about-us a:link {
+  color: black;
 }
 .about-us a:active {
   color: black;
@@ -172,12 +176,15 @@ tfoot {
     margin-top: 0;
   }
   .header-title {
-    font-size: 25px;
+    font-size: 28px;
   }
   .header-text {
-    font-size: 12px;
+    font-size: 15px;
   }
   .about-text {
-    font-size: 12px;
+    font-size: 15px;
   }
-}
+  .header-scripture {
+    font-size: 10px;
+  }
+},
