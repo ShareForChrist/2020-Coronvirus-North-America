@@ -96,30 +96,17 @@ tfoot {
 }
 
 /* Style inputs for footer*/
-input[type="text"],
-select,
-textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
+.stylebut {
+  background-color: brown;
+  border-radius: 1em;
 }
-
-input[type="submit"] {
-  background-color: #4caf50;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  cursor: pointer;
-}
-
-input[type="submit"]:hover {
-  background-color: #45a049;
+.stylebut a {
+  color: antiquewhite;
+  font-family: inherit;
 }
 
 /* Style the container/contact section */
+
 .container {
   border-radius: 5px;
   background-color: #f2f2f2;
@@ -154,6 +141,14 @@ input[type="submit"]:hover {
 .icon {
   width: 80px;
   height: auto;
+}
+
+.edge-bot {
+  display: flex;
+  background-color: rgb(121, 67, 23);
+  color: antiquewhite;
+  text-align: center;
+  justify-content: center;
 }
 
 /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
