@@ -132,8 +132,9 @@ tfoot {
   background-color: rgba(142, 192, 228, 0.3);
   border-radius: 10px;
   height: auto;
+  color: black;
 }
-.about a:link {
+.about-us a:link {
   color: black;
 }
 .about-us a:active {
