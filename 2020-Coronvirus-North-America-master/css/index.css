@@ -96,30 +96,20 @@ tfoot {
 }
 
 /* Style inputs for footer*/
-input[type="text"],
-select,
-textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
-}
+.stylebut {
+  background-color: brown;
+  border-radius: 1em;
 
-input[type="submit"] {
-  background-color: #4caf50;
-  color: white;
-  padding: 12px 20px;
-  border: none;
-  cursor: pointer;
 }
-
-input[type="submit"]:hover {
-  background-color: #45a049;
+.stylebut a {
+  color: antiquewhite;
+  font-family: inherit;
 }
 
 /* Style the container/contact section */
+footer{
+  background-image: url("https://unsplash.com/s/photos/light");
+}
 .container {
   border-radius: 5px;
   background-color: #f2f2f2;
