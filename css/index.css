@@ -6,7 +6,11 @@
 
 /* ======= Navigation Bar ======= */
 .dropdown-menu {
+<<<<<<< HEAD
   background-color: rgb(46,51,56) !important;
+=======
+  background-color: rgb(46, 51, 56) !important;
+>>>>>>> 81c85eb902cf33626e3e934be91198ab8249baa1
 }
 
 .dropdown-menu a {
@@ -96,6 +100,7 @@ tfoot {
 }
 
 /* Style inputs for footer*/
+<<<<<<< HEAD
 .stylebut {
   background-color: brown;
   border-radius: 1em;
@@ -110,6 +115,32 @@ tfoot {
 footer{
   background-image: url("https://unsplash.com/s/photos/light");
 }
+=======
+input[type="text"],
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type="submit"] {
+  background-color: #4caf50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  cursor: pointer;
+}
+
+input[type="submit"]:hover {
+  background-color: #45a049;
+}
+
+/* Style the container/contact section */
+>>>>>>> 81c85eb902cf33626e3e934be91198ab8249baa1
 .container {
   border-radius: 5px;
   background-color: #f2f2f2;
@@ -131,6 +162,24 @@ footer{
   clear: both;
 }
 
+<<<<<<< HEAD
+=======
+.about-us {
+  background-color: rgba(142, 192, 228, 0.3);
+  border-radius: 10px;
+}
+.about-text {
+  height: 150px;
+  background-color: rgba(86, 85, 87, 0.3);
+  border-radius: 10px;
+  color: white;
+}
+.icon {
+  width: 80px;
+  height: auto;
+}
+
+>>>>>>> 81c85eb902cf33626e3e934be91198ab8249baa1
 /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
 @media screen and (max-width: 600px) {
   .column,
